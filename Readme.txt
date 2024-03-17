@@ -1,4 +1,5 @@
 Language Understanding and Question Answering System using Jeopardy! Dataset
+
 Overview
 This repository contains the code and resources for building a language understanding and question answering system using the Jeopardy! dataset. The project aims to train a language understanding model to extract meaning from open-ended questions and leverage that understanding to answer the questions using a dedicated QA system.
 
@@ -18,8 +19,12 @@ Fine-tuned pre-trained language models such as BERT, RoBERTa, or DistilBERT on t
 Developed a question answering system based on pre-trained QA models like BERT-QA or RoBERTa-QA.
 Integrated the language understanding model with the QA system to create a cohesive pipeline.
 Deployed the integrated system and provided documentation for its usage.
+
 Dataset
 The Jeopardy! dataset consists of approximately 200,000 rows of question-answer pairs collected from the American Quiz Show Jeopardy!. Each row contains a question and its corresponding answer, providing a rich and diverse source of data for training and evaluating the language understanding and question answering system.
+
+Link to download the dataset:
+https://www.reddit.com/r/datasets/comments/1uyd0t/200000_jeopardy_questions_in_a_json_file/
 
 Getting Started
 Prerequisites
